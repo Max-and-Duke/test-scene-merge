@@ -1,3 +1,4 @@
 first line in text
 second line in text
 fourth line in text
+add this line for poor test3
